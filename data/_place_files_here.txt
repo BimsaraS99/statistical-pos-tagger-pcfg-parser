@@ -1,3 +1,0 @@
-Place the following files here:
-- daily_mirror_raw.txt   (the 150 raw sentences)
-- daily_mirror_gold.txt  (your 150 hand-tagged sentences)
