@@ -1,0 +1,2751 @@
+# sentence 1 [business]
+The	DT	DT
+session	NN	NN
+was	VBD	VBD
+well	RB	RB
+received	VBN	VBN
+by	IN	IN
+participants	NNS	NNS
+,	,	,
+who	WP	WP
+engaged	VBD	-NONE-
+actively	RB	VBG
+with	IN	IN
+the	DT	DT
+themes	NNS	NNP
+discussed	VBN	NNP
+.	.	.
+
+# sentence 2 [business]
+The	DT	DT
+programme	NN	NN
+offered	VBD	VBD
+the	DT	DT
+students	NNS	NNS
+an	DT	DT
+opportunity	NN	NN
+to	TO	TO
+gain	VB	VB
+practical	JJ	DT
+guidance	NN	NN
+from	IN	IN
+the	DT	DT
+professionals	NNS	NNS
+.	.	.
+
+# sentence 3 [business]
+The	DT	DT
+campaign	NN	NN
+was	VBD	VBD
+supported	VBN	-NONE-
+by	IN	IN
+new	JJ	JJ
+memoranda	NNS	NN
+of	IN	IN
+understanding	NN	NN
+with	IN	IN
+Emirates	NNP	NNP
+and	CC	CC
+Qatar	NNP	NNP
+Airways	NNP	NNP
+.	.	.
+
+# sentence 4 [business]
+Bhattacharya	NNP	NNP
+stressed	VBD	VBD
+that	IN	IN
+the	DT	DT
+company	NN	NN
+does	VBZ	VBZ
+not	RB	RB
+favour	VB	VB
+a	DT	DT
+rip-and-replace	JJ	NN
+approach	NN	NN
+.	.	.
+
+# sentence 5 [business]
+AOD	NNP	NNP
+has	VBZ	VBZ
+announced	VBN	VBN
+the	DT	DT
+launch	NN	NN
+of	IN	IN
+the	DT	DT
+Young	NNP	JJ
+Creatives	NNP	NNS
+Programme	NNP	NN
+for	IN	IN
+students	NNS	NNS
+with	IN	IN
+special	JJ	JJ
+needs	NNS	NNS
+.	.	.
+
+# sentence 6 [business]
+What	WP	WP
+sets	VBZ	-NONE-
+the	DT	DT
+programme	NN	NN
+apart	RB	NN
+is	VBZ	VBZ
+its	PRP$	PRP$
+refusal	NN	NN
+to	TO	TO
+define	VB	VB
+success	NN	NN
+in	IN	IN
+a	DT	DT
+single	JJ	JJ
+way	NN	NN
+.	.	.
+
+# sentence 7 [business]
+The	DT	DT
+students	NNS	NNS
+will	MD	MD
+have	VB	VB
+opportunities	NNS	-NONE-
+to	TO	TO
+showcase	VB	VB
+their	PRP$	PRP$
+work	NN	NN
+through	IN	IN
+Young	NNP	NNP
+Creatives	NNP	NNP
+Exhibitions	NNP	NNP
+at	IN	IN
+AOD	NNP	NNP
+.	.	.
+
+# sentence 8 [business]
+Christell	NNP	NNP
+has	VBZ	VBZ
+continuously	RB	VBN
+evolved	VBN	-NONE-
+with	IN	IN
+advances	NNS	NNS
+in	IN	IN
+science	NN	NN
+,	,	,
+technology	NN	NNP
+and	CC	CC
+regenerative	JJ	JJ
+medicine	NN	NN
+.	.	.
+
+# sentence 9 [business]
+That	DT	DT
+sense	NN	NN
+of	IN	IN
+familiarity	NN	NN
+remains	VBZ	VBZ
+at	IN	IN
+the	DT	DT
+heart	NN	NN
+of	IN	IN
+EKHO	NNP	NNP
+Belihuloya	NNP	NNP
+.	.	.
+
+# sentence 10 [business]
+Secondary	JJ	DT
+market	NN	NN
+activity	NN	NN
+remained	VBD	IN
+mixed	VBN	DT
+yesterday	NN	NN
+,	,	,
+with	IN	IN
+both	DT	DT
+buying	NN	NN
+and	CC	CC
+selling	NN	DT
+interest	NN	NN
+observed	VBN	NN
+throughout	IN	IN
+the	DT	DT
+session	NN	NN
+.	.	.
+
+# sentence 11 [business]
+Failure	NN	-NONE-
+to	TO	TO
+comply	VB	RB
+may	MD	MD
+result	VB	VB
+in	IN	IN
+administrative	JJ	JJ
+penalties	NNS	NNS
+.	.	.
+
+# sentence 12 [business]
+Tobacco	NN	DT
+sector	NN	NN
+was	VBD	VBD
+the	DT	DT
+second	JJ	JJ
+highest	JJS	NN
+contributor	NN	NN
+to	IN	TO
+the	DT	DT
+market	NN	NN
+turnover	NN	MD
+whilst	IN	VB
+the	DT	DT
+sector	NN	NN
+index	NN	NN
+decreased	VBD	VBD
+by	IN	IN
+0.47	CD	CD
+%	NN	NN
+.	.	.
+
+# sentence 13 [business]
+LB	NNP	NNP
+Finance	NNP	NNP
+had	VBD	VBD
+earlier	RB	RB
+said	VBD	VBD
+the	DT	DT
+Philippine	JJ	JJ
+operation	NN	NN
+would	MD	MD
+engage	VB	VB
+in	IN	IN
+the	DT	DT
+provision	NN	NN
+of	IN	IN
+financial	JJ	JJ
+services	NNS	NNS
+.	.	.
+
+# sentence 14 [business]
+Together	RB	RB
+,	,	,
+the	DT	DT
+two	CD	CD
+projects	NNS	NNS
+represent	VBP	VBP
+an	DT	DT
+important	JJ	JJ
+step	NN	NN
+towards	IN	NNS
+a	DT	DT
+more	RBR	RBR
+flexible	JJ	JJ
+,	,	,
+resilient	JJ	NNP
+and	CC	CC
+sustainable	JJ	JJ
+electricity	NN	NN
+system	NN	NN
+for	IN	IN
+Sri	NNP	NNP
+Lanka	NNP	NNP
+.	.	.
+
+# sentence 15 [business]
+Agreeing	VBG	NNS
+on	IN	IN
+the	DT	DT
+content	NN	NN
+in	IN	IN
+principle	NN	NN
+is	VBZ	VBZ
+only	RB	RB
+one	CD	CD
+step	NN	NN
+,	,	,
+he	PRP	PRP
+explained	VBD	VBD
+,	,	,
+as	IN	IN
+domestic	JJ	JJ
+processes	NNS	NNS
+are	VBP	VBP
+needed	VBN	VBN
+to	TO	TO
+give	VB	VB
+the	DT	DT
+agreement	NN	NN
+legal	JJ	JJ
+effect	NN	NN
+.	.	.
+
+# sentence 16 [business]
+DFCC	NNP	NNP
+Bank	NNP	NNP
+developed	VBD	VBD
+the	DT	DT
+multilingual	JJ	JJ
+proposition	NN	NN
+in	IN	IN
+response	NN	NN
+to	TO	TO
+a	DT	DT
+clear	JJ	JJ
+customer	NN	NN
+need	NN	NN
+.	.	.
+
+# sentence 17 [business]
+The	DT	DT
+partnership	NN	NN
+gives	VBZ	IN
+Sejaya	NNP	NNP
+'s	POS	POS
+clients	NNS	NNS
+a	DT	DT
+faster	JJR	JJ
+way	NN	NN
+to	TO	TO
+repay	VB	VB
+loan	NN	NN
+installments	NNS	NNS
+and	CC	CC
+supports	VBZ	IN
+both	DT	DT
+companies	NNS	NNS
+'	POS	POS
+commitment	NN	NN
+to	IN	TO
+financial	JJ	JJ
+inclusion	NN	NN
+.	.	.
+
+# sentence 18 [business]
+The	DT	DT
+InShe	NNP	NNP
+app	NN	NNP
+can	MD	MD
+be	VB	VB
+downloaded	VBN	VBN
+via	IN	IN
+the	DT	DT
+Apple	NNP	NNP
+App	NNP	NNP
+Store	NNP	,
+and	CC	CC
+the	DT	DT
+Google	NNP	NN
+Play	NNP	NN
+Store	NNP	NN
+.	.	.
+
+# sentence 19 [business]
+The	DT	DT
+2026	CD	CD
+edition	NN	NN
+placed	VBD	IN
+a	DT	DT
+particular	JJ	JJ
+focus	NN	NN
+on	IN	IN
+the	DT	DT
+connection	NN	NN
+between	IN	IN
+mental	JJ	JJ
+well-being	NN	NN
+and	CC	CC
+physical	JJ	JJ
+workplace	NN	NN
+safety	NN	NN
+.	.	.
+
+# sentence 20 [business]
+This	DT	DT
+initiative	NN	NN
+reflects	VBZ	IN
+the	DT	DT
+company	NN	NN
+'s	POS	POS
+broader	JJR	JJ
+commitment	NN	NN
+to	TO	TO
+embedding	VBG	JJ
+sustainability	NN	NN
+considerations	NNS	NNS
+into	IN	IN
+the	DT	DT
+way	NN	NN
+it	PRP	PRP
+operates	VBZ	VBZ
+,	,	,
+innovates	VBZ	NNP
+and	CC	CC
+communicates	VBZ	NNS
+with	IN	IN
+stakeholders	NNS	NNS
+.	.	.
+
+# sentence 21 [business]
+The	DT	DT
+carbon	NN	JJ
+neutrality	NN	NN
+process	NN	NN
+was	VBD	VBD
+supported	VBN	-NONE-
+by	IN	IN
+Control	NNP	NN
+Union	NNP	NN
+Inspections	NNP	NNS
+which	WDT	WDT
+provided	VBD	-NONE-
+technical	JJ	JJ
+guidance	NN	NN
+throughout	IN	IN
+the	DT	DT
+journey	NN	NN
+.	.	.
+
+# sentence 22 [business]
+The	DT	DT
+appointment	NN	NN
+was	VBD	VBD
+confirmed	VBN	-NONE-
+at	IN	IN
+the	DT	DT
+institute	NN	NNP
+'s	POS	POS
+Annual	NNP	JJ
+General	NNP	JJ
+Meeting	NNP	NN
+held	VBN	VBD
+recently	RB	RB
+.	.	.
+
+# sentence 23 [business]
+The	DT	DT
+conference	NN	NN
+addressed	VBD	VBD
+a	DT	DT
+broad	JJ	JJ
+range	NN	NN
+of	IN	IN
+issues	NNS	NNS
+shaping	VBG	IN
+the	DT	DT
+future	NN	NN
+of	IN	IN
+reserve	NN	DT
+management	NN	NN
+.	.	.
+
+# sentence 24 [business]
+The	DT	DT
+Central	NNP	JJ
+Bank	NNP	NN
+said	VBD	VBD
+the	DT	DT
+moderation	NN	NN
+in	IN	IN
+production	NN	NN
+was	VBD	VBD
+driven	VBN	VBN
+by	IN	IN
+the	DT	DT
+textiles	NNS	NNS
+and	CC	CC
+wearing	VBG	VBG
+apparel	NN	DT
+sector	NN	NN
+.	.	.
+
+# sentence 25 [business]
+The	DT	DT
+Central	NNP	JJ
+Bank	NNP	NN
+cautioned	VBD	NN
+that	IN	IN
+broader	JJR	DT
+global	JJ	JJ
+economic	JJ	JJ
+uncertainties	NNS	NNS
+remained	VBD	VBD
+a	DT	DT
+downside	NN	JJ
+risk	NN	NN
+to	IN	TO
+the	DT	DT
+services	NNS	JJ
+sector	NN	NN
+outlook	NN	NN
+.	.	.
+
+# sentence 26 [business]
+He	PRP	PRP
+called	VBD	VBD
+for	IN	IN
+strong	JJ	JJ
+governance	NN	NN
+and	CC	CC
+a	DT	DT
+culture	NN	NN
+of	IN	IN
+doing	VBG	VBG
+the	DT	DT
+right	JJ	NN
+thing	NN	NN
+across	IN	IN
+corporate	JJ	NNP
+Sri	NNP	NNP
+Lanka	NNP	NNP
+.	.	.
+
+# sentence 27 [business]
+Those	DT	NNP
+,	,	,
+he	PRP	PRP
+noted	VBD	VBD
+,	,	,
+remain	VBP	DT
+matters	NNS	NN
+of	IN	IN
+human	JJ	JJ
+judgment	NN	NN
+.	.	.
+
+# sentence 28 [business]
+Emirates	NNP	NNP
+and	CC	CC
+the	DT	DT
+Sri	NNP	NNP
+Lanka	NNP	NNP
+Tourism	NNP	NNP
+Promotion	NNP	NN
+Bureau	NNP	NNS
+have	VBP	VBP
+renewed	VBN	VBN
+their	PRP$	PRP$
+partnership	NN	NN
+to	TO	TO
+amplify	VB	VB
+efforts	NNS	DT
+aimed	VBN	NN
+at	IN	IN
+benefiting	VBG	VBG
+the	DT	DT
+country	NN	NN
+'s	POS	POS
+tourism	NN	JJ
+industry	NN	NN
+.	.	.
+
+# sentence 29 [business]
+It	PRP	PRP
+is	VBZ	VBZ
+seeking	VBG	VBG
+incentives	NNS	NNS
+not	RB	RB
+only	RB	RB
+to	TO	TO
+attract	VB	VB
+fresh	JJ	DT
+foreign	JJ	JJ
+direct	JJ	JJ
+investment	NN	NN
+into	IN	IN
+apparel	NN	DT
+manufacturing	NN	NN
+.	.	.
+
+# sentence 30 [business]
+The	DT	DT
+basis	NN	NN
+of	IN	IN
+allotment	NN	NN
+will	MD	MD
+be	VB	VB
+announced	VBN	-NONE-
+to	IN	TO
+the	DT	DT
+Colombo	NNP	NNP
+Stock	NNP	NNP
+Exchange	NNP	NNP
+as	IN	IN
+per	IN	DT
+regulatory	JJ	JJ
+requirements	NNS	NNS
+in	IN	IN
+due	JJ	JJ
+course	NN	NN
+.	.	.
+
+# sentence 31 [business]
+Crossing	VBG	IN
+the	DT	DT
+50	CD	CD
+percent	NN	CD
+threshold	NN	NN
+is	VBZ	VBZ
+a	DT	DT
+key	JJ	JJ
+condition	NN	NN
+of	IN	IN
+the	DT	DT
+offer	NN	NN
+,	,	,
+which	WDT	WDT
+was	VBD	VBD
+initially	RB	RB
+voluntary	JJ	,
+and	CC	CC
+subsequently	RB	RB
+converted	VBN	VBN
+into	IN	IN
+a	DT	DT
+mandatory	JJ	NN
+offer	NN	NN
+.	.	.
+
+# sentence 32 [business]
+Foreign	JJ	JJ
+participation	NN	NN
+in	IN	IN
+the	DT	DT
+market	NN	NN
+activity	NN	NN
+remained	VBD	VBD
+at	IN	IN
+subdued	JJ	JJ
+levels	NNS	NNS
+with	IN	IN
+foreigners	NNS	DT
+closing	VBG	NN
+as	IN	IN
+net	JJ	JJ
+sellers	NNS	NNS
+.	.	.
+
+# sentence 33 [business]
+The	DT	DT
+Institute	NNP	NN
+stresses	VBZ	IN
+the	DT	DT
+importance	NN	NN
+of	IN	IN
+evidence-based	JJ	JJ
+policymaking	NN	NN
+.	.	.
+
+# sentence 34 [business]
+The	DT	DT
+Institute	NNP	NN
+notes	VBZ	NNS
+that	IN	IN
+this	DT	DT
+imbalance	NN	NN
+places	VBZ	IN
+a	DT	DT
+disproportionate	JJ	JJ
+burden	NN	NN
+on	IN	IN
+consumers	NNS	NNS
+and	CC	CC
+can	MD	MD
+contribute	VB	VB
+to	IN	TO
+informal	JJ	JJ
+economic	JJ	JJ
+activity	NN	NN
+.	.	.
+
+# sentence 35 [business]
+The	DT	DT
+proposals	NNS	NNS
+also	RB	RB
+identify	VBP	VB
+the	DT	DT
+need	NN	NN
+to	TO	TO
+address	VB	VB
+unregulated	JJ	VBN
+economic	JJ	JJ
+activity	NN	NN
+in	IN	IN
+specific	JJ	JJ
+sectors	NNS	NNS
+.	.	.
+
+# sentence 36 [business]
+A	DT	DT
+further	JJ	JJ
+holdover	NN	NN
+provision	NN	NN
+is	VBZ	VBZ
+proposed	VBN	VBN
+to	TO	TO
+suspend	VB	VB
+tax	NN	NN
+collection	NN	NN
+during	IN	IN
+the	DT	DT
+appeal	NN	NN
+process	NN	NN
+in	IN	IN
+qualifying	VBG	JJ
+cases	NNS	NNS
+.	.	.
+
+# sentence 37 [business]
+The	DT	DT
+projected	VBN	JJ
+output	NN	NN
+implies	VBZ	IN
+an	DT	DT
+average	JJ	JJ
+capacity	NN	NN
+factor	NN	NN
+of	IN	IN
+about	IN	IN
+20	CD	CD
+percent	NN	NN
+.	.	.
+
+# sentence 38 [business]
+The	DT	DT
+Colombo	NNP	NNP
+Stock	NNP	NNP
+Exchange	NNP	NNP
+(	(	NNP
+CSE	NNP	NNP
+)	)	NNP
+has	VBZ	VBZ
+received	VBN	VBN
+the	DT	DT
+Great	NNP	JJ
+Place	NNP	NN
+to	TO	TO
+Work	NNP	VB
+certification	NN	NN
+.	.	.
+
+# sentence 39 [business]
+An	DT	DT
+improved	JJ	JJ
+demand	NN	NN
+was	VBD	VBD
+seen	VBN	VBN
+for	IN	IN
+the	DT	DT
+Orthodox/Rotovane	JJ	NN
+teas	NNS	IN
+,	,	,
+following	VBG	DT
+quality	NN	NN
+.	.	.
+
+# sentence 40 [business]
+All	DT	DT
+categories	NNS	JJ
+met	VBD	NN
+with	IN	IN
+fair	JJ	DT
+demand	NN	NN
+.	.	.
+
+# sentence 41 [politics]
+The	DT	DT
+White	NNP	NNP
+House	NNP	NNP
+rejected	VBD	VBD
+the	DT	DT
+findings	NNS	NNS
+.	.	.
+
+# sentence 42 [politics]
+The	DT	DT
+UN	NNP	NNP
+findings	NNS	NNS
+have	VBP	VBP
+raised	VBN	VBN
+the	DT	DT
+stakes	NNS	JJ
+further	RB	NN
+.	.	.
+
+# sentence 43 [politics]
+Both	DT	DT
+Khanna	NNP	NNP
+and	CC	CC
+Omar	NNP	NNP
+urged	VBD	VBD
+the	DT	DT
+State	NNP	NN
+Department	NNP	NN
+not	RB	RB
+to	TO	TO
+recognize	VB	VB
+a	DT	DT
+winner	NN	NN
+until	IN	IN
+investigations	NNS	NNS
+are	VBP	VBP
+conducted	VBN	VBN
+into	IN	IN
+allegations	NNS	NNS
+of	IN	IN
+misconduct	NN	NN
+.	.	.
+
+# sentence 44 [politics]
+Beyond	IN	IN
+liquefied	JJ	JJ
+natural	JJ	JJ
+gas	NN	NN
+,	,	,
+both	DT	DT
+countries	NNS	NNS
+are	VBP	VBP
+looking	VBG	VBG
+to	TO	TO
+expand	VB	VB
+cooperation	NN	NN
+in	IN	IN
+nuclear	JJ	JJ
+energy	NN	NN
+,	,	,
+where	WRB	WRB
+India	NNP	PRP
+is	VBZ	VBZ
+looking	VBG	-NONE-
+to	TO	TO
+significantly	RB	VB
+boost	VB	DT
+capacity	NN	NN
+.	.	.
+
+# sentence 45 [politics]
+A	DT	DT
+Palestinian	JJ	JJ
+official	NN	NN
+,	,	,
+who	WP	WP
+spoke	VBD	-NONE-
+on	IN	IN
+condition	NN	NN
+of	IN	IN
+anonymity	NN	NN
+,	,	,
+confirmed	VBD	NNP
+Abbas	NNP	NNP
+'	POS	POS
+visa	NN	NN
+had	VBD	VBD
+been	VBN	VBN
+denied	VBN	-NONE-
+.	.	.
+
+# sentence 46 [politics]
+He	PRP	PRP
+added	VBD	VBD
+that	IN	IN
+other	JJ	JJ
+media	NNS	NN
+outlets	NNS	NNS
+could	MD	MD
+also	RB	RB
+face	VB	VB
+similar	JJ	JJ
+action	NN	NN
+.	.	.
+
+# sentence 47 [politics]
+Southeast	NNP	NNP
+Asia	NNP	NNP
+'s	POS	POS
+engagement	NN	NN
+was	VBD	VBD
+another	DT	DT
+theme	NN	NN
+.	.	.
+
+# sentence 48 [politics]
+China	NNP	NNP
+rejected	VBD	VBD
+the	DT	DT
+account	NN	NN
+,	,	,
+placing	VBG	DT
+responsibility	NN	NN
+for	IN	IN
+the	DT	DT
+collision	NN	NN
+with	IN	IN
+the	DT	DT
+Philippine	JJ	JJ
+side	NN	NN
+.	.	.
+
+# sentence 49 [politics]
+A	DT	DT
+United	NNP	NNP
+Nations-backed	JJ	NNP
+tribunal	NN	NNP
+in	IN	IN
+July	NNP	NNP
+said	VBD	VBD
+China	NNP	NNP
+'s	POS	POS
+sovereignty	NN	NN
+claims	NNS	NNS
+have	VBP	VBP
+no	DT	DT
+legal	JJ	JJ
+basis	NN	NN
+.	.	.
+
+# sentence 50 [politics]
+Trump	NNP	``
+also	RB	RB
+said	VBD	VBD
+the	DT	DT
+US	NNP	NN
+would	MD	MD
+immediately	RB	RB
+begin	VB	VB
+developing	VBG	IN
+a	DT	DT
+larger	JJR	JJ
+military	JJ	JJ
+presence	NN	NN
+at	IN	IN
+suitable	JJ	JJ
+locations	NNS	NNS
+in	IN	IN
+Greenland	NNP	NNP
+.	.	.
+
+# sentence 51 [politics]
+He	PRP	PRP
+said	VBD	VBD
+the	DT	DT
+US	NNP	NN
+would	MD	MD
+work	VB	VB
+with	IN	IN
+the	DT	DT
+people	NNS	NNS
+of	IN	IN
+Greenland	NNP	NNP
+on	IN	IN
+the	DT	DT
+development	NN	NN
+and	CC	CC
+construction	NN	NN
+of	IN	IN
+the	DT	DT
+military	JJ	JJ
+presence	NN	NN
+.	.	.
+
+# sentence 52 [politics]
+The	DT	DT
+affected	JJ	JJ
+companies	NNS	NNS
+have	VBP	VBP
+been	VBN	VBN
+informed	VBN	VBN
+about	IN	IN
+the	DT	DT
+breach	NN	NN
+.	.	.
+
+# sentence 53 [politics]
+As	IN	IN
+public	JJ	JJ
+debate	NN	NN
+continues	VBZ	-NONE-
+to	TO	TO
+grow	VB	NN
+over	IN	IN
+the	DT	DT
+safety	NN	NN
+of	IN	IN
+developing	VBG	VBG
+the	DT	DT
+tech	NN	JJ
+,	,	,
+so	RB	RB
+too	RB	RB
+does	VBZ	VBZ
+conversation	NN	NN
+around	IN	IN
+regulation	NN	NN
+.	.	.
+
+# sentence 54 [politics]
+The	DT	DT
+private	JJ	JJ
+sector	NN	NN
+creates	VBZ	IN
+nine	CD	CD
+out	IN	NNS
+of	IN	IN
+10	CD	CD
+jobs	NNS	NNS
+in	IN	IN
+these	DT	DT
+economies	NNS	NNS
+.	.	.
+
+# sentence 55 [politics]
+However	RB	RB
+,	,	,
+President	NNP	NNP
+Dissanayake	NNP	NNP
+said	VBD	VBD
+the	DT	DT
+government	NN	NN
+would	MD	MD
+consider	VB	VB
+providing	VBG	IN
+a	DT	DT
+subsidy	NN	NN
+to	TO	TO
+ease	VB	VB
+the	DT	DT
+burden	NN	NN
+on	IN	IN
+the	DT	DT
+public	NN	NN
+.	.	.
+
+# sentence 56 [politics]
+The	DT	DT
+programme	NN	NN
+proposes	VBZ	VBZ
+a	DT	DT
+new	JJ	NNP
+Constitution	NNP	NNP
+and	CC	CC
+a	DT	DT
+new	JJ	JJ
+electoral	JJ	JJ
+system	NN	NN
+under	IN	IN
+which	WDT	$
+125	CD	CD
+Members	NNS	NNS
+of	IN	IN
+Parliament	NNP	PRP
+would	MD	MD
+be	VB	VB
+elected	VBN	VBN
+from	IN	IN
+electorates	NNS	NNS
+.	.	.
+
+# sentence 57 [politics]
+He	PRP	PRP
+said	VBD	VBD
+the	DT	DT
+responsibilities	NNS	NN
+under	IN	IN
+the	DT	DT
+proposed	VBN	JJ
+programme	NN	NN
+would	MD	MD
+ultimately	RB	RB
+be	VB	VB
+handed	VBN	VBN
+over	RP	-NONE-
+to	IN	TO
+the	DT	DT
+younger	JJR	JJ
+generation	NN	NN
+.	.	.
+
+# sentence 58 [politics]
+Local	JJ	JJ
+government	NN	NN
+institutions	NNS	NNS
+will	MD	MD
+identify	VB	VB
+dangerous	JJ	JJ
+locations	NNS	NNS
+within	IN	IN
+their	PRP$	PRP$
+respective	JJ	JJ
+areas	NNS	NNS
+and	CC	CC
+carry	VB	VB
+out	RP	IN
+the	DT	DT
+required	VBN	JJ
+safety	NN	NN
+improvements	NNS	NNS
+under	IN	IN
+the	DT	DT
+programme	NN	NN
+.	.	.
+
+# sentence 59 [politics]
+Memorandums	NNS	NNS
+of	IN	IN
+Understanding	NN	NN
+were	VBD	VBD
+signed	VBN	VBN
+with	IN	IN
+relevant	JJ	JJ
+local	JJ	JJ
+government	NN	NN
+institutions	NNS	NNS
+on	IN	IN
+September	NNP	NNP
+18	CD	CD
+to	TO	TO
+begin	VB	VB
+implementing	VBG	VBG
+the	DT	DT
+initiative	NN	NN
+.	.	.
+
+# sentence 60 [politics]
+He	PRP	PRP
+said	VBD	VBD
+road	NN	-NONE-
+accidents	NNS	PRP
+caused	VBD	VBD
+not	RB	RB
+only	RB	JJ
+loss	NN	NN
+of	IN	IN
+life	NN	NN
+but	CC	CC
+also	RB	RB
+significant	JJ	JJ
+economic	JJ	JJ
+and	CC	CC
+social	JJ	JJ
+costs	NNS	NNS
+,	,	,
+making	VBG	VBG
+road	NN	NN
+safety	NN	IN
+a	DT	DT
+national	JJ	JJ
+priority	NN	NN
+.	.	.
+
+# sentence 61 [politics]
+The	DT	DT
+situation	NN	NN
+is	VBZ	VBZ
+particularly	RB	RB
+concerning	JJ	VBG
+for	IN	IN
+paediatric	JJ	NNP
+cancer	NN	NNP
+patients	NNS	NNP
+,	,	,
+whose	WP$	DT
+treatment	NN	NN
+can	MD	MD
+not	RB	RB
+afford	VB	VB
+prolonged	JJ	VBN
+delays	NNS	-NONE-
+,	,	,
+according	VBG	VBG
+to	TO	TO
+medical	JJ	JJ
+sources	NNS	NNS
+.	.	.
+
+# sentence 62 [politics]
+The	DT	DT
+public	NN	NN
+has	VBZ	VBZ
+been	VBN	VBN
+advised	VBN	-NONE-
+to	TO	TO
+take	VB	VB
+necessary	JJ	JJ
+precautions	NNS	NNS
+to	TO	TO
+minimise	VB	VB
+risks	NNS	NNS
+from	IN	IN
+temporary	JJ	DT
+strong	JJ	JJ
+winds	NNS	NNS
+and	CC	CC
+lightning	NN	NN
+that	WDT	IN
+may	MD	NNP
+accompany	VB	POS
+thundershowers	NNS	NNS
+.	.	.
+
+# sentence 63 [politics]
+He	PRP	PRP
+said	VBD	VBD
+the	DT	DT
+investigation	NN	NN
+dates	VBZ	VBZ
+back	RB	RB
+to	IN	TO
+2012	CD	CD
+.	.	.
+
+# sentence 64 [politics]
+Deputy	NNP	NNP
+Solicitor	NNP	NNP
+General	NNP	NNP
+Janaka	NNP	NNP
+Bandara	NNP	NNP
+objected	VBD	VBD
+to	IN	TO
+the	DT	DT
+bail	NN	JJ
+application	NN	NN
+.	.	.
+
+# sentence 65 [politics]
+The	DT	DT
+Sri	NNP	NNP
+Lankan	NNP	NNP
+delegation	NN	NN
+stressed	VBD	IN
+the	DT	DT
+need	NN	NN
+to	TO	TO
+introduce	VB	VB
+these	DT	DT
+methods	NNS	NN
+through	IN	IN
+practical	JJ	JJ
+measures	NNS	NNS
+suited	VBN	VBD
+to	IN	TO
+local	JJ	JJ
+conditions	NNS	NNS
+.	.	.
+
+# sentence 66 [politics]
+The	DT	DT
+assembly	NN	NN
+focused	VBD	NN
+on	IN	IN
+solutions	NNS	-NONE-
+to	IN	TO
+extreme	JJ	NN
+heat	NN	NN
+and	CC	CC
+promoting	VBG	RB
+environmentally	RB	RB
+friendly	JJ	JJ
+cooling	NN	NN
+systems	NNS	NNS
+.	.	.
+
+# sentence 67 [politics]
+The	DT	DT
+project	NN	NN
+was	VBD	VBD
+implemented	VBN	-NONE-
+under	IN	IN
+the	DT	DT
+Government	NNP	NN
+'s	POS	POS
+national	JJ	JJ
+programme	NN	NN
+to	TO	TO
+generate	VB	VB
+electricity	NN	NN
+through	IN	IN
+sustainable	JJ	JJ
+energy	NN	NN
+sources	NNS	NNS
+.	.	.
+
+# sentence 68 [politics]
+Several	JJ	JJ
+community	NN	NN
+welfare	NN	.
+initiatives	NNS	''
+were	VBD	VBD
+also	RB	RB
+implemented	VBN	VBN
+as	IN	IN
+part	NN	NN
+of	IN	IN
+the	DT	DT
+project	NN	NN
+.	.	.
+
+# sentence 69 [politics]
+The	DT	DT
+lawyer	NN	NN
+has	VBZ	VBZ
+informed	VBN	VBN
+the	DT	DT
+Embassy	NNP	NN
+that	IN	IN
+the	DT	DT
+judgment	NN	NN
+may	MD	MD
+be	VB	VB
+appealed	VBN	VBN
+before	IN	IN
+the	DT	DT
+Supreme	NNP	JJ
+Court	NNP	NN
+of	IN	IN
+Saudi	NNP	NNP
+Arabia	NNP	NNP
+within	IN	IN
+one	CD	CD
+month	NN	NN
+.	.	.
+
+# sentence 70 [politics]
+The	DT	DT
+Government	NNP	NN
+will	MD	MD
+continue	VB	VB
+to	TO	TO
+monitor	VB	VB
+developments	NNS	VBN
+while	IN	-NONE-
+respecting	VBG	VBG
+the	DT	DT
+judicial	JJ	JJ
+processes	NNS	NNS
+and	CC	CC
+laws	NNS	NNS
+of	IN	IN
+Saudi	NNP	NNP
+Arabia	NNP	NNP
+,	,	,
+the	DT	DT
+Ministry	NNP	NNP
+said	VBD	VBD
+.	.	.
+
+# sentence 71 [politics]
+The	DT	DT
+proposed	VBN	NN
+framework	NN	.
+calls	VBZ	''
+for	IN	IN
+a	DT	DT
+National	NNP	JJ
+Building	NNP	NN
+Fire	NNP	NN
+Safety	NNP	NN
+Act	NNP	NN
+and	CC	CC
+an	DT	DT
+independent	JJ	JJ
+National	NNP	JJ
+Fire	NNP	NN
+Safety	NNP	NN
+Authority	NNP	NN
+.	.	.
+
+# sentence 72 [politics]
+The	DT	DT
+second	JJ	JJ
+area	NN	NN
+is	VBZ	VBZ
+energy	NN	DT
+transition	NN	NN
+and	CC	CC
+power	NN	NN
+sector	NN	NN
+reform	NN	NN
+.	.	.
+
+# sentence 73 [politics]
+The	DT	DT
+report	NN	NN
+finds	VBZ	NN
+that	IN	IN
+the	DT	DT
+main	JJ	JJ
+challenge	NN	NN
+is	VBZ	VBZ
+now	RB	RB
+implementation	NN	VBZ
+rather	RB	RB
+than	IN	IN
+absence	NN	NN
+of	IN	IN
+policy	NN	NN
+.	.	.
+
+# sentence 74 [politics]
+Transport	NN	NNP
+is	VBZ	VBZ
+the	DT	DT
+third	JJ	JJ
+priority	NN	NN
+.	.	.
+
+# sentence 75 [politics]
+The	DT	DT
+Committee	NNP	NN
+will	MD	MD
+particularly	RB	RB
+examine	VB	IN
+the	DT	DT
+role	NN	NN
+played	VBN	NN
+by	IN	IN
+local	JJ	JJ
+authorities	NNS	NNS
+in	IN	IN
+official	JJ	NN
+communication	NN	,
+and	CC	CC
+coordination	NN	NN
+during	IN	IN
+the	DT	DT
+disaster	NN	JJ
+situation	NN	NN
+.	.	.
+
+# sentence 76 [politics]
+He	PRP	PRP
+said	VBD	VBD
+Sri	NNP	NNP
+Lanka	NNP	NNP
+had	VBD	VBD
+moved	VBN	VBN
+away	RB	-NONE-
+from	IN	IN
+a	DT	DT
+system	NN	NN
+where	WRB	IN
+the	DT	DT
+application	NN	NN
+of	IN	IN
+the	DT	DT
+law	NN	NN
+was	VBD	VBD
+influenced	VBN	-NONE-
+by	IN	IN
+political	JJ	JJ
+status	NN	NN
+,	,	,
+party	NN	NN
+affiliations	NNS	NNS
+or	CC	CC
+personal	JJ	JJ
+connections	NNS	NN
+.	.	.
+
+# sentence 77 [politics]
+Referring	VBG	-NONE-
+to	IN	TO
+Article	NNP	VB
+of	IN	IN
+the	DT	DT
+Constitution	NNP	NNP
+,	,	,
+Watagala	NNP	NNP
+said	VBD	VBD
+every	DT	DT
+person	NN	NN
+was	VBD	VBD
+entitled	VBN	-NONE-
+to	IN	TO
+equal	JJ	JJ
+protection	NN	NN
+of	IN	IN
+the	DT	DT
+law	NN	NN
+.	.	.
+
+# sentence 78 [politics]
+He	PRP	PRP
+was	VBD	VBD
+subsequently	RB	RB
+produced	VBN	VBN
+before	IN	IN
+court	NN	NN
+and	CC	CC
+remanded	VBN	JJ
+.	.	.
+
+# sentence 79 [politics]
+Oil	NN	NN
+prices	NNS	NNS
+fell	VBD	VBD
+2	CD	CD
+%	NN	NN
+on	IN	IN
+Friday	NNP	NNP
+,	,	,
+extending	VBG	JJ
+losses	NNS	NNS
+for	IN	IN
+a	DT	DT
+third	JJ	JJ
+straight	JJ	JJ
+session	NN	NN
+.	.	.
+
+# sentence 80 [politics]
+He	PRP	PRP
+said	VBD	VBD
+most	JJS	JJ
+traders	NNS	NNS
+were	VBD	VBD
+currently	RB	RB
+selling	VBG	VBG
+vehicles	NNS	NNS
+at	IN	IN
+a	DT	DT
+loss	NN	NN
+,	,	,
+while	IN	IN
+market	NN	NN
+prices	NNS	NNS
+were	VBD	VBD
+expected	VBN	VBN
+to	TO	TO
+decline	VB	VB
+further	RB	JJ
+.	.	.
+
+# sentence 81 [sport]
+NEXT	NNP	JJ
+XV	NNP	NN
+will	MD	MD
+serve	VB	VB
+as	IN	IN
+the	DT	DT
+official	JJ	JJ
+national	JJ	JJ
+selection	NN	NN
+tournament	NN	NN
+for	IN	IN
+Sri	NNP	NNP
+Lanka	NNP	NNP
+Rugby	NNP	NNP
+.	.	.
+
+# sentence 82 [sport]
+The	DT	DT
+tournament	NN	NN
+features	VBZ	IN
+eight	CD	CD
+women	NNS	NNS
+'s	POS	POS
+cricket	NN	NN
+teams	NNS	NNS
+in	IN	IN
+Asia	NNP	NNP
+.	.	.
+
+# sentence 83 [sport]
+Sri	NNP	NNP
+Lanka	NNP	NNP
+'s	POS	POS
+next	JJ	JJ
+match	NN	NN
+will	MD	MD
+be	VB	VB
+against	IN	IN
+Pakistan	NNP	NN
+on	IN	IN
+Sunday	NNP	NNP
+.	.	.
+
+# sentence 84 [sport]
+The	DT	DT
+Super	NNP	NNP
+Six	NNP	CD
+Round	NNP	NN
+is	VBZ	VBZ
+expected	VBN	VBN
+to	TO	TO
+provide	VB	VB
+an	DT	DT
+exciting	JJ	JJ
+conclusion	NN	NN
+to	IN	TO
+the	DT	DT
+2025	CD	CD
+FFSL	NNP	NNP
+Super	NNP	NNP
+League	NNP	NNP
+season	NN	NNP
+.	.	.
+
+# sentence 85 [sport]
+Charith	NNP	NNP
+Asalanka	NNP	NNP
+also	RB	RB
+made	VBD	VBD
+a	DT	DT
+start	NN	NN
+but	CC	CC
+failed	VBD	VBD
+to	TO	TO
+convert	VB	VB
+it	PRP	PRP
+into	IN	IN
+a	DT	DT
+substantial	JJ	JJ
+score	NN	NN
+.	.	.
+
+# sentence 86 [sport]
+The	DT	DT
+Brazil	NNP	NNP
+international	NN	NNP
+has	VBZ	VBZ
+started	VBN	VBN
+the	DT	DT
+season	NN	NN
+in	IN	IN
+sensational	JJ	DT
+form	NN	NN
+,	,	,
+playing	VBG	VBG
+out	IN	RP
+of	IN	IN
+position	NN	NN
+as	IN	IN
+a	DT	DT
+central	JJ	JJ
+striker	NN	NN
+.	.	.
+
+# sentence 87 [sport]
+A	DT	DT
+total	NN	NN
+of	IN	IN
+57	CD	DT
+school	NN	NN
+teams	NNS	NNS
+from	IN	IN
+across	IN	IN
+the	DT	DT
+island	NN	JJ
+participated	VBD	NN
+in	IN	IN
+the	DT	DT
+tournament	NN	NN
+.	.	.
+
+# sentence 88 [sport]
+Teams	NNS	NNS
+from	IN	IN
+16	CD	CD
+countries	NNS	NNS
+across	IN	IN
+the	DT	DT
+Asian	JJ	JJ
+region	NN	NN
+will	MD	MD
+contest	VB	VB
+the	DT	DT
+event	NN	NN
+.	.	.
+
+# sentence 89 [sport]
+She	PRP	PRP
+also	RB	RB
+represented	VBD	IN
+Sri	NNP	NNP
+Lanka	NNP	NNP
+at	IN	IN
+the	DT	DT
+FIBA	NNP	NNP
+Under-18	NNP	NNP
+3x3	NNP	CD
+World	NNP	NN
+Basketball	NNP	NN
+Championship	NNP	NN
+held	VBN	VBD
+in	IN	IN
+Hungary	NNP	NNP
+in	IN	IN
+2025	CD	CD
+.	.	.
+
+# sentence 90 [sport]
+The	DT	DT
+tournament	NN	NN
+was	VBD	VBD
+held	VBN	VBN
+at	IN	IN
+Browns	NNP	NNP
+Beach	NNP	NNP
+in	IN	IN
+Negombo	NNP	NN
+with	IN	IN
+18	CD	CD
+school	NN	NN
+teams	NNS	IN
+taking	VBG	DT
+part	NN	NN
+.	.	.
+
+# sentence 91 [sport]
+The	DT	DT
+championship	NN	NN
+provided	VBD	IN
+young	JJ	JJ
+schoolgirls	NNS	NNS
+from	IN	IN
+different	JJ	JJ
+parts	NNS	NNS
+of	IN	IN
+the	DT	DT
+country	NN	NN
+with	IN	IN
+an	DT	DT
+opportunity	NN	NN
+to	TO	TO
+compete	VB	VB
+at	IN	IN
+national	JJ	JJ
+level	NN	NN
+in	IN	IN
+beach	NN	DT
+volleyball	NN	NN
+.	.	.
+
+# sentence 92 [sport]
+Fazil	NNP	NNP
+Marija	NNP	NNP
+will	MD	MD
+head	VB	VB
+the	DT	DT
+coaching	NN	NN
+unit	NN	NN
+and	CC	CC
+the	DT	DT
+kick-off	NN	NN
+is	VBZ	VBZ
+on	IN	IN
+Saturday	NNP	NNP
+.	.	.
+
+# sentence 93 [sport]
+He	PRP	PRP
+built	VBD	VBD
+his	PRP$	PRP$
+career	NN	NN
+on	IN	IN
+two	CD	CD
+and	CC	CC
+four	CD	CD
+wheels	NNS	NNS
+and	CC	CC
+won	VBD	JJ
+championships	NNS	NNS
+in	IN	IN
+both	DT	DT
+motorcycle	NN	NN
+and	CC	CC
+car	NN	NN
+racing	NN	NNS
+.	.	.
+
+# sentence 94 [sport]
+Peiris	NNP	NNP
+is	VBZ	VBZ
+the	DT	DT
+only	JJ	JJ
+Sri	NNP	NNP
+Lankan	NNP	NNP
+driver	NN	VBD
+to	TO	TO
+date	VB	VB
+to	TO	TO
+have	VB	VB
+become	VBN	VBN
+a	DT	DT
+champion	NN	NN
+in	IN	IN
+both	DT	DT
+disciplines	NNS	NNS
+.	.	.
+
+# sentence 95 [sport]
+He	PRP	PRP
+returned	VBD	VBD
+to	IN	TO
+Sri	NNP	NNP
+Lanka	NNP	NNP
+yesterday	NN	NN
+following	VBG	IN
+his	PRP$	PRP$
+historic	JJ	JJ
+victories	NNS	NNS
+at	IN	IN
+the	DT	DT
+Diamond	NNP	NNP
+League	NNP	NNP
+Finals	NNP	NNP
+.	.	.
+
+# sentence 96 [sport]
+The	DT	DT
+tournament	NN	NN
+will	MD	MD
+continue	VB	VB
+today	NN	NN
+.	.	.
+
+# sentence 97 [sport]
+The	DT	DT
+other	JJ	JJ
+teams	NNS	NNS
+will	MD	MD
+play	VB	VB
+in	IN	IN
+the	DT	DT
+Bowl	NNP	NN
+and	CC	CC
+Shield	NNP	NNP
+segments	NNS	NNS
+.	.	.
+
+# sentence 98 [sport]
+Qasim	NNP	NNP
+said	VBD	VBD
+that	IN	IN
+OWSC	NNP	NNP
+is	VBZ	VBZ
+much	RB	RB
+more	JJR	JJR
+than	IN	IN
+a	DT	DT
+club	NN	NN
+to	IN	TO
+its	PRP$	PRP$
+members	NNS	NNS
+.	.	.
+
+# sentence 99 [sport]
+He	PRP	PRP
+called	VBD	VBD
+upon	IN	IN
+past	JJ	JJ
+presidents	NNS	NNS
+,	,	,
+office	NN	NN
+bearers	NNS	NNS
+and	CC	CC
+members	NNS	NNS
+to	TO	TO
+contribute	VB	VB
+their	PRP$	PRP$
+experience	NN	NN
+and	CC	CC
+support	NN	NN
+to	IN	TO
+the	DT	DT
+new	JJ	JJ
+administration	NN	NN
+.	.	.
+
+# sentence 100 [sport]
+The	DT	DT
+tournament	NN	NN
+is	VBZ	VBZ
+expected	VBN	VBN
+to	TO	TO
+showcase	VB	VB
+some	DT	DT
+of	IN	IN
+the	DT	DT
+finest	JJS	NNP
+young	JJ	NNP
+rugby	NN	NNP
+talent	NN	NN
+in	IN	IN
+Asia	NNP	NNP
+.	.	.
+
+# sentence 101 [sport]
+It	PRP	PRP
+was	VBD	VBD
+New	NNP	JJ
+Zealand	NNP	NNS
+who	WP	WP
+started	VBD	-NONE-
+fastest	RBS	VBG
+in	IN	IN
+Maryland	NNP	NN
+on	IN	IN
+Saturday	NNP	NNP
+.	.	.
+
+# sentence 102 [sport]
+Pannala	NNP	NNP
+National	NNP	NNP
+School	NNP	NNP
+secured	VBD	POS
+third	JJ	JJ
+place	NN	NN
+in	IN	IN
+the	DT	DT
+Under-17	JJ	NNP
+boys	NNS	NNP
+'	POS	POS
+competition	NN	NN
+.	.	.
+
+# sentence 103 [sport]
+Rybakina	NNP	NNP
+and	CC	CC
+Sabalenka	NNP	NNP
+have	VBP	VBP
+developed	VBN	VBN
+a	DT	DT
+strong	JJ	JJ
+rivalry	NN	NN
+built	VBN	VBD
+not	RB	RB
+only	RB	RB
+on	IN	IN
+their	PRP$	PRP$
+outstanding	JJ	JJ
+talent	NN	NN
+but	CC	CC
+their	PRP$	PRP$
+contrasting	JJ	JJ
+personalities	NNS	NNS
+.	.	.
+
+# sentence 104 [sport]
+However	RB	RB
+,	,	,
+she	PRP	PRP
+has	VBZ	VBZ
+found	VBN	VBN
+her	PRP$	PRP$
+form	NN	NN
+again	RB	RB
+,	,	,
+dropping	VBG	VBG
+just	RB	RB
+one	CD	CD
+set	NN	VBD
+en	FW	VBN
+route	FW	-NONE-
+to	IN	TO
+the	DT	DT
+final	NN	JJ
+.	.	.
+
+# sentence 105 [sport]
+The	DT	DT
+group-stage	NN	NN
+matches	NNS	NNS
+will	MD	MD
+continue	VB	VB
+throughout	IN	IN
+the	DT	DT
+morning	NN	NN
+,	,	,
+with	IN	IN
+each	DT	DT
+team	NN	NN
+playing	VBG	IN
+three	CD	CD
+games	NNS	-NONE-
+to	TO	TO
+determine	VB	VB
+the	DT	DT
+final	JJ	JJ
+group	NN	NN
+standings	NNS	NNS
+.	.	.
+
+# sentence 106 [sport]
+The	DT	DT
+top	JJ	JJ
+four	CD	CD
+seeds	NNS	NNS
+in	IN	IN
+the	DT	DT
+women	NNS	NNS
+'s	POS	POS
+singles	NNS	NNS
+draw	NN	MD
+have	VBP	VB
+reached	VBN	VBN
+the	DT	DT
+semi-finals	NNS	NNS
+at	IN	IN
+the	DT	DT
+New	NNP	NNP
+York	NNP	NNP
+major	NN	NNP
+.	.	.
+
+# sentence 107 [sport]
+The	DT	DT
+decision	NN	NN
+means	VBZ	IN
+the	DT	DT
+27-year-old	JJ	JJ
+American	NNP	JJ
+will	MD	NNS
+miss	VB	VBP
+this	DT	DT
+week	NN	NN
+'s	POS	POS
+World	NNP	NN
+Athletics	NNP	NNS
+Ultimate	NNP	JJ
+Championship	NNP	NN
+in	IN	IN
+Hungary	NNP	NNP
+.	.	.
+
+# sentence 108 [sport]
+The	DT	DT
+two	CD	CD
+semifinals	NNS	NNS
+are	VBP	VBP
+scheduled	VBN	VBN
+to	TO	TO
+be	VB	VB
+played	VBN	VBN
+on	IN	IN
+September	NNP	NNP
+13	CD	CD
+under	IN	IN
+floodlights	NNS	NNS
+at	IN	IN
+the	DT	DT
+R.	NNP	NNP
+Premadasa	NNP	NNP
+Stadium	NNP	NN
+.	.	.
+
+# sentence 109 [sport]
+This	DT	DT
+was	VBD	VBD
+the	DT	DT
+biggest	JJS	NN
+-	:	,
+and	CC	CC
+certainly	RB	RB
+most	RBS	VBN
+significant	JJ	-NONE-
+-	:	TO
+win	NN	VB
+of	IN	IN
+Shelton	NNP	NNP
+'s	POS	POS
+career	NN	NN
+.	.	.
+
+# sentence 110 [sport]
+According	VBG	VBG
+to	TO	TO
+the	DT	DT
+organisers	NNS	NNS
+more	JJR	JJR
+than	IN	IN
+2000	CD	DT
+budding	JJ	JJ
+girls	NNS	NNS
+from	IN	IN
+50	CD	CD
+schools	NNS	NNS
+contested	VBD	VBD
+the	DT	DT
+event	NN	NN
+.	.	.
+
+# sentence 111 [sport]
+New	NNP	NNP
+Youngs	NNP	NNP
+adopted	VBD	VBD
+a	DT	DT
+more	RBR	RBR
+defensive	JJ	JJ
+approach	NN	NN
+in	IN	IN
+the	DT	DT
+second	JJ	JJ
+half	NN	NN
+,	,	,
+and	CC	CC
+neither	DT	DT
+team	NN	NN
+managed	VBD	-NONE-
+to	TO	TO
+score	VB	VB
+.	.	.
+
+# sentence 112 [sport]
+According	VBG	VBG
+to	TO	TO
+the	DT	DT
+organisers	NNS	NNS
+,	,	,
+the	DT	DT
+event	NN	NN
+attracted	VBD	NN
+over	IN	IN
+one	CD	CD
+thousand	CD	CD
+kids	NNS	NNS
+from	IN	IN
+215	CD	CD
+schools	NNS	NNS
+.	.	.
+
+# sentence 113 [sport]
+Ratnam	NNP	NNP
+remain	VBP	,
+the	DT	DT
+only	JJ	JJ
+team	NN	NN
+in	IN	IN
+the	DT	DT
+10-team	JJ	CD
+competition	NN	NN
+yet	RB	-NONE-
+to	TO	TO
+record	VB	VB
+a	DT	DT
+victory	NN	NN
+after	IN	IN
+eight	CD	CD
+matches	NNS	NNS
+.	.	.
+
+# sentence 114 [sport]
+Defending	VBG	NNP
+champions	NNS	NNP
+Sri	NNP	NNP
+Lanka	NNP	NNP
+in	IN	IN
+Group	NNP	NNP
+B	NNP	NNP
+will	MD	MD
+now	RB	RB
+meet	VB	VB
+the	DT	DT
+second	JJ	JJ
+placed	VBN	NN
+team	NN	NN
+in	IN	IN
+Group	NNP	NNP
+A	NNP	NNP
+.	.	.
+
+# sentence 115 [sport]
+The	DT	DT
+thinking	NN	NN
+behind	IN	IN
+the	DT	DT
+trial	NN	NN
+is	VBZ	VBZ
+that	IN	IN
+the	DT	DT
+smaller	JJR	JJ
+ball	NN	NN
+will	MD	MD
+suit	VB	VB
+women	NNS	NNS
+'s	POS	POS
+physiology	NN	NN
+and	CC	CC
+improve	VB	VB
+their	PRP$	PRP$
+skillset	NN	JJ
+.	.	.
+
+# sentence 116 [sport]
+Only	RB	RB
+one	CD	CD
+driver	NN	NN
+has	VBZ	VBZ
+come	VBN	VBN
+back	RB	-NONE-
+to	TO	TO
+win	VB	VB
+from	IN	IN
+further	RB	JJ
+down	IN	IN
+the	DT	DT
+grid	NN	NN
+.	.	.
+
+# sentence 117 [sport]
+A	DT	DT
+wrist	NN	NN
+injury	NN	.
+caused	VBD	''
+Alcaraz	NNP	NNP
+to	TO	TO
+miss	VB	VBP
+both	DT	IN
+the	DT	DT
+French	NNP	JJ
+Open	NNP	NNS
+and	CC	CC
+Wimbledon	NNP	NNP
+earlier	RBR	,
+this	DT	DT
+summer	NN	NN
+.	.	.
+
+# sentence 118 [sport]
+New	NNP	NNP
+Zealand	NNP	NNP
+'s	POS	POS
+smarts	NNS	NNS
+initially	RB	VBP
+defused	VBD	VBN
+the	DT	DT
+fire	NN	NN
+and	CC	CC
+fury	NN	NN
+inside	IN	IN
+the	DT	DT
+cauldron	NN	NNP
+.	.	.
+
+# sentence 119 [sport]
+The	DT	DT
+FFSL	NNP	NNP
+Super	NNP	NNP
+League	NNP	NNP
+first	JJ	NNP
+stage	NN	,
+features	VBZ	$
+10	CD	CD
+teams	NNS	NNS
+and	CC	CC
+consists	VBZ	NN
+of	IN	IN
+nine	CD	CD
+rounds	NNS	NNS
+and	CC	CC
+45	CD	CD
+matches	NNS	NNS
+.	.	.
+
+# sentence 120 [sport]
+The	DT	DT
+remaining	VBG	JJ
+district	NN	NN
+competitions	NNS	NNS
+will	MD	MD
+begin	VB	VB
+after	IN	IN
+the	DT	DT
+Colombo	NNP	NN
+and	CC	CC
+Kalutara	NNP	NNP
+matches	NNS	NNP
+.	.	.
+
+# sentence 121 [local]
+Rainy	JJ	NNP
+conditions	NNS	NNS
+in	IN	IN
+the	DT	DT
+southwestern	JJ	NNP
+parts	NNS	NNS
+of	IN	IN
+the	DT	DT
+country	NN	NN
+are	VBP	VBP
+likely	JJ	-NONE-
+to	TO	TO
+continue	VB	VB
+due	JJ	JJ
+to	TO	TO
+the	DT	DT
+wind	NN	JJ
+flow	NN	NN
+towards	IN	NNS
+the	DT	DT
+system	NN	NN
+.	.	.
+
+# sentence 122 [local]
+Although	IN	IN
+rainfall	NN	NN
+has	VBZ	VBZ
+eased	VBN	VBN
+compared	VBN	-NONE-
+to	TO	TO
+previous	JJ	JJ
+days	NNS	NNS
+,	,	,
+rain	NN	''
+continues	VBZ	VBZ
+in	IN	IN
+several	JJ	JJ
+areas	NNS	NNS
+.	.	.
+
+# sentence 123 [local]
+The	DT	DT
+Kuda	NNP	NNP
+Ganga	NNP	NNP
+,	,	,
+a	DT	DT
+tributary	NN	NN
+of	IN	IN
+the	DT	DT
+Kalu	NNP	NNP
+Ganga	NNP	NNP
+,	,	,
+has	VBZ	VBZ
+also	RB	RB
+risen	VBN	VBN
+at	IN	IN
+Millakanda	NNP	NNP
+and	CC	CC
+is	VBZ	VBZ
+nearing	VBG	VBG
+minor	JJ	DT
+flood	NN	NN
+levels	NNS	NNS
+.	.	.
+
+# sentence 124 [local]
+Kahawatte	NNP	NNP
+said	VBD	VBD
+no	DT	DT
+decision	NN	NN
+had	VBD	VBD
+been	VBN	VBN
+taken	VBN	-NONE-
+to	TO	TO
+suspend	VB	VB
+fishing	NN	JJ
+activities	NNS	NNS
+across	IN	IN
+the	DT	DT
+country	NN	NN
+.	.	.
+
+# sentence 125 [local]
+After	IN	IN
+being	VBG	DT
+struck	VBN	NN
+by	IN	IN
+lightning	NN	NN
+,	,	,
+he	PRP	PRP
+was	VBD	VBD
+rushed	VBN	-NONE-
+to	IN	TO
+Agalawatta	NNP	NNP
+Pimbura	NNP	NNP
+Base	NNP	NN
+Hospital	NNP	.
+where	WRB	''
+he	PRP	PRP
+was	VBD	VBD
+pronounced	VBN	VBN
+dead	JJ	-NONE-
+.	.	.
+
+# sentence 126 [local]
+It	PRP	PRP
+also	RB	RB
+warned	VBD	VBN
+that	IN	IN
+the	DT	DT
+typhoon	NN	NN
+could	MD	MD
+cause	VB	VB
+severe	JJ	JJ
+flooding	NN	NN
+in	IN	IN
+low-lying	JJ	JJ
+areas	NNS	NNS
+.	.	.
+
+# sentence 127 [local]
+The	DT	DT
+Minister	NNP	NN
+said	VBD	VBD
+the	DT	DT
+government	NN	NN
+will	MD	MD
+also	RB	RB
+conduct	VB	VB
+its	PRP$	PRP$
+monthly	JJ	JJ
+fuel	NN	NN
+price	NN	NN
+review	NN	NN
+at	IN	IN
+the	DT	DT
+end	NN	NN
+of	IN	IN
+September	NNP	NNP
+.	.	.
+
+# sentence 128 [local]
+The	DT	DT
+waterways	NNS	NNS
+protect	VBP	IN
+the	DT	DT
+city	NN	NN
+from	IN	IN
+flooding	NN	NN
+,	,	,
+but	CC	CC
+people	NNS	NNS
+carelessly	RB	RB
+dump	VBP	NNP
+garbage	NN	NNP
+.	.	.
+
+# sentence 129 [local]
+The	DT	DT
+Colombo	NNP	NNP
+Municipal	NNP	NNP
+Council	NNP	NNP
+(	(	NNP
+CMC	NNP	NNP
+)	)	,
+too	RB	RB
+has	VBZ	VBZ
+extended	VBN	VBN
+its	PRP$	PRP$
+fullest	JJS	NN
+support	NN	NN
+to	TO	TO
+take	VB	VB
+this	DT	DT
+initiative	NN	JJ
+forward	RB	NN
+.	.	.
+
+# sentence 130 [local]
+Reports	NNS	NNS
+indicate	VBP	IN
+that	IN	DT
+several	JJ	JJ
+extremist	JJ	NN
+groups	NNS	NNS
+are	VBP	VBP
+active	JJ	JJ
+in	IN	IN
+the	DT	DT
+region	NN	NN
+.	.	.
+
+# sentence 131 [local]
+This	DT	DT
+time	NN	NN
+,	,	,
+the	DT	DT
+entire	JJ	JJ
+country	NN	NN
+was	VBD	VBD
+affected	VBN	VBN
+,	,	,
+more	RBR	JJR
+or	CC	CC
+less	RBR	JJR
+.	.	.
+
+# sentence 132 [local]
+The	DT	DT
+country	NN	NN
+faces	VBZ	IN
+a	DT	DT
+growing	VBG	JJ
+climate	NN	NN
+vulnerability	NN	NN
+that	WDT	IN
+warrants	VBZ	DT
+urgent	JJ	NN
+and	CC	CC
+pragmatic	JJ	JJ
+policy	NN	NN
+attention	NN	NN
+.	.	.
+
+# sentence 133 [local]
+It	PRP	PRP
+is	VBZ	VBZ
+the	DT	DT
+largest	JJS	JJS
+reservoir	NN	NN
+constructed	VBN	VBD
+during	IN	IN
+the	DT	DT
+past	JJ	JJ
+30	CD	CD
+years	NNS	NNS
+.	.	.
+
+# sentence 134 [local]
+It	PRP	PRP
+will	MD	MD
+be	VB	VB
+the	DT	DT
+longest	JJS	JJ
+canal	NN	JJ
+in	IN	IN
+Sri	NNP	NNP
+Lanka	NNP	NNP
+.	.	.
+
+# sentence 135 [local]
+More	JJR	JJR
+than	IN	IN
+500	CD	CD
+Cathay	NNP	NN
+Pacific	NNP	IN
+flights	NNS	NNS
+are	VBP	VBP
+expected	VBN	VBN
+to	TO	TO
+be	VB	VB
+cancelled	VBN	VBN
+.	.	.
+
+# sentence 136 [local]
+Scientists	NNS	NNS
+have	VBP	VBP
+warned	VBN	VBN
+that	IN	IN
+climate	NN	DT
+change	NN	NN
+is	VBZ	VBZ
+making	VBG	VBG
+tropical	JJ	JJ
+storms	NNS	NNS
+more	RBR	JJR
+intense	JJ	NNS
+.	.	.
+
+# sentence 137 [local]
+Fishermen	NNS	NNP
+were	VBD	VBD
+asked	VBN	-NONE-
+to	TO	TO
+keep	VB	VB
+away	RB	RB
+from	IN	IN
+the	DT	DT
+sea	NN	NN
+in	IN	IN
+the	DT	DT
+coming	VBG	JJ
+days	NNS	NNS
+.	.	.
+
+# sentence 138 [local]
+The	DT	DT
+Nuwara	NNP	NNP
+Eliya	NNP	NNP
+District	NNP	NNP
+Forest	NNP	NNP
+Range	NNP	NN
+Officer	NNP	NN
+said	VBD	VBD
+that	IN	IN
+he	PRP	PRP
+was	VBD	VBD
+unaware	JJ	-NONE-
+of	IN	IN
+this	DT	DT
+incident	NN	NN
+.	.	.
+
+# sentence 139 [local]
+The	DT	DT
+road	NN	NN
+from	IN	IN
+Diyagala	NNP	NNP
+to	IN	TO
+Nallathanniya	NNP	NNP
+should	MD	MD
+surely	RB	RB
+be	VB	VB
+widened	VBN	JJ
+.	.	.
+
+# sentence 140 [local]
+They	PRP	PRP
+said	VBD	VBD
+the	DT	DT
+decision	NN	NN
+was	VBD	VBD
+taken	VBN	VBN
+following	VBG	VBG
+yesterday	NN	NN
+'s	POS	POS
+accident	NN	NN
+which	WDT	IN
+claimed	VBD	$
+seven	CD	CD
+lives	NNS	NNS
+.	.	.
+
+# sentence 141 [local]
+The	DT	DT
+remaining	VBG	NN
+nine	CD	.
+accused	NNS	''
+were	VBD	VBD
+acquitted	VBN	VBN
+and	CC	CC
+released	VBN	NN
+.	.	.
+
+# sentence 142 [local]
+The	DT	DT
+sentences	NNS	NNS
+of	IN	IN
+the	DT	DT
+convicted	VBN	JJ
+accused	NNS	NNS
+are	VBP	VBP
+scheduled	VBN	VBN
+to	TO	TO
+be	VB	VB
+pronounced	VBN	VBN
+shortly	RB	-NONE-
+.	.	.
+
+# sentence 143 [local]
+Several	JJ	JJ
+spells	NNS	NNS
+of	IN	IN
+showers	NNS	NNS
+may	MD	MD
+also	RB	RB
+occur	VB	VB
+in	IN	IN
+the	DT	DT
+North	NNP	NNP
+Central	NNP	NNP
+Province	NNP	,
+and	CC	CC
+Mannar	NNP	NN
+District	NNP	NN
+.	.	.
+
+# sentence 144 [local]
+The	DT	DT
+existing	VBG	NN
+fuel	NN	IN
+terminal	NN	JJ
+at	IN	IN
+Muthurajawela	NNP	NNP
+will	MD	NNP
+undergo	VB	NNP
+necessary	JJ	JJ
+modifications	NNS	NNS
+as	IN	IN
+part	NN	NN
+of	IN	IN
+the	DT	DT
+project	NN	NN
+.	.	.
+
+# sentence 145 [local]
+The	DT	DT
+two	CD	CD
+lawyers	NNS	NNS
+had	VBD	VBD
+also	RB	RB
+agreed	VBN	VBD
+to	TO	TO
+travel	VB	VB
+to	IN	TO
+Saudi	NNP	NNP
+Arabia	NNP	NNP
+at	IN	IN
+their	PRP$	PRP$
+own	JJ	JJ
+expense	NN	NN
+to	TO	TO
+assist	VB	VB
+with	IN	IN
+the	DT	DT
+case	NN	NN
+.	.	.
+
+# sentence 146 [local]
+He	PRP	PRP
+urged	VBD	VBD
+senior	JJ	JJ
+monks	NNS	NNS
+to	TO	TO
+intervene	VB	NN
+and	CC	CC
+request	VB	NN
+President	NNP	NN
+Dissanayake	NNP	NN
+to	TO	TO
+grant	VB	VB
+him	PRP	IN
+a	DT	DT
+fresh	JJ	NNP
+pardon	NN	NNP
+.	.	.
+
+# sentence 147 [local]
+People	NNS	NNS
+'s	POS	POS
+democratic	JJ	JJ
+rights	NNS	NNS
+too	RB	RB
+were	VBD	VBD
+exercised	VBN	VBN
+within	IN	IN
+these	DT	DT
+boundaries	NNS	NNS
+.	.	.
+
+# sentence 148 [local]
+Modern	JJ	JJ
+democracies	NNS	NNS
+are	VBP	VBP
+evolving	VBG	VBG
+and	CC	CC
+human	JJ	JJ
+mobility	NN	NN
+is	VBZ	VBZ
+reshaping	VBG	VBG
+societies	NNS	NNS
+,	,	,
+economies	NNS	NNS
+and	CC	CC
+political	JJ	JJ
+systems	NNS	NNS
+across	IN	IN
+the	DT	DT
+globe	NN	NN
+.	.	.
+
+# sentence 149 [local]
+Iran	NNP	NNP
+did	VBD	VBD
+not	RB	RB
+return	VB	VB
+the	DT	DT
+aircraft	NN	NN
+.	.	.
+
+# sentence 150 [local]
+The	DT	DT
+Houthis	NNPS	NNP
+backed	VBD	,
+the	DT	DT
+public	JJ	JJ
+uprising	NN	NN
+.	.	.
+
