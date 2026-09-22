@@ -1,10 +1,10 @@
 # sentence 1 [business]
-The DT
-session NN
-was VBD
-well    RB
-received    VBN
-by  IN
+The	DT
+session	NN
+was	VBD
+well	RB
+received	VBN
+by	IN
 participants	NNS
 ,	,
 who	WP
