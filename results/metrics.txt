@@ -2,7 +2,7 @@ POS TAGGER — EVALUATION RESULTS
 ==================================================
 
 OVERALL ACCURACY
-  Full model (clues ON) : 0.8352  (2047/359/440)
+  Full model (clues ON) : 0.8352  (2047/2451)
 
 MODEL COMPARISON (ABLATION)
   1. Baseline (most-frequent tag) : 0.7989
@@ -12,8 +12,8 @@ MODEL COMPARISON (ABLATION)
   Unknown-word gain (2->3)        : +0.0783
   Total gain (1->3)               : +0.0363
 
-  Per-token accuracy    : 0.8352  (2047/359/440)
-  Sentence-level accuracy: 0.0933  (14/150)
+  Per-token accuracy      : 0.8352  (2047/2451)
+  Sentence-level accuracy : 0.0933  (14/150)
 
 PER-SECTION ACCURACY
   business  : 0.8291  (553/667)
