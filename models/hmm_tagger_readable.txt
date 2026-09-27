@@ -1,0 +1,263 @@
+HMM TAGGER — TRANSITION PROBABILITIES  P(tag | prev_tag)
+=======================================================
+  P(CD    | #    ) = 1.0000
+  P(CD    | $    ) = 0.9890
+  P(JJ    | $    ) = 0.0110
+  P(VBZ   | ''   ) = 0.1892
+  P(IN    | ''   ) = 0.1505
+  P(VBD   | ''   ) = 0.1118
+  P(PRP   | ''   ) = 0.1075
+  P(NNP   | ''   ) = 0.1054
+  P(NNP   | ,    ) = 0.1370
+  P(DT    | ,    ) = 0.1351
+  P(CC    | ,    ) = 0.0833
+  P(IN    | ,    ) = 0.0786
+  P(RB    | ,    ) = 0.0563
+  P(NNP   | -LRB-) = 0.3417
+  P($     | -LRB-) = 0.1750
+  P(DT    | -LRB-) = 0.0833
+  P(IN    | -LRB-) = 0.0750
+  P(CD    | -LRB-) = 0.0667
+  P(TO    | -NONE-) = 0.1839
+  P(IN    | -NONE-) = 0.1447
+  P(.     | -NONE-) = 0.0913
+  P(VBG   | -NONE-) = 0.0790
+  P(-NONE- | -NONE-) = 0.0750
+  P(,     | -RRB-) = 0.2203
+  P(.     | -RRB-) = 0.1441
+  P(:     | -RRB-) = 0.1271
+  P(IN    | -RRB-) = 0.0847
+  P(VBD   | -RRB-) = 0.0593
+  P(''    | .    ) = 0.8577
+  P(-RRB- | .    ) = 0.0620
+  P(-LRB- | .    ) = 0.0292
+  P(-NONE- | .    ) = 0.0182
+  P(NNP   | .    ) = 0.0146
+  P(NNP   | :    ) = 0.1942
+  P(DT    | :    ) = 0.1135
+  P(CD    | :    ) = 0.1115
+  P(IN    | :    ) = 0.0865
+  P(JJ    | :    ) = 0.0692
+  P(DT    | <s>  ) = 0.2312
+  P(NNP   | <s>  ) = 0.1978
+  P(IN    | <s>  ) = 0.1290
+  P(``    | <s>  ) = 0.0756
+  P(PRP   | <s>  ) = 0.0626
+  P(NNP   | CC   ) = 0.1567
+  P(NN    | CC   ) = 0.1205
+  P(DT    | CC   ) = 0.1130
+  P(JJ    | CC   ) = 0.1046
+  P(NNS   | CC   ) = 0.0702
+  P(-NONE- | CD   ) = 0.2105
+  P(NN    | CD   ) = 0.1938
+  P(CD    | CD   ) = 0.1851
+  P(NNS   | CD   ) = 0.1476
+  P(,     | CD   ) = 0.0593
+  P(NN    | DT   ) = 0.4708
+  P(JJ    | DT   ) = 0.2027
+  P(NNP   | DT   ) = 0.1286
+  P(NNS   | DT   ) = 0.0774
+  P(CD    | DT   ) = 0.0234
+  P(VBZ   | EX   ) = 0.5909
+  P(VBP   | EX   ) = 0.1932
+  P(VBD   | EX   ) = 0.1364
+  P(MD    | EX   ) = 0.0568
+  P(RB    | EX   ) = 0.0227
+  P(VBZ   | FW   ) = 0.5000
+  P(NN    | FW   ) = 0.2500
+  P(-RRB- | FW   ) = 0.2500
+  P(DT    | IN   ) = 0.3187
+  P(NNP   | IN   ) = 0.1484
+  P(NN    | IN   ) = 0.1096
+  P(JJ    | IN   ) = 0.0961
+  P(CD    | IN   ) = 0.0627
+  P(NN    | JJ   ) = 0.4475
+  P(NNS   | JJ   ) = 0.2437
+  P(JJ    | JJ   ) = 0.0636
+  P(IN    | JJ   ) = 0.0586
+  P(NNP   | JJ   ) = 0.0334
+  P(IN    | JJR  ) = 0.3307
+  P(NN    | JJR  ) = 0.2021
+  P(NNS   | JJR  ) = 0.1942
+  P(.     | JJR  ) = 0.0656
+  P(JJ    | JJR  ) = 0.0630
+  P(NN    | JJS  ) = 0.2802
+  P(NNS   | JJS  ) = 0.1758
+  P(IN    | JJS  ) = 0.1593
+  P(JJ    | JJS  ) = 0.1374
+  P(CD    | JJS  ) = 0.0495
+  P(-RRB- | LS   ) = 0.4615
+  P(.     | LS   ) = 0.3846
+  P(:     | LS   ) = 0.1538
+  P(VB    | MD   ) = 0.8155
+  P(RB    | MD   ) = 0.1597
+  P(-NONE- | MD   ) = 0.0065
+  P(``    | MD   ) = 0.0043
+  P(DT    | MD   ) = 0.0032
+  P(IN    | NN   ) = 0.2439
+  P(NN    | NN   ) = 0.1259
+  P(,     | NN   ) = 0.1102
+  P(.     | NN   ) = 0.1025
+  P(NNS   | NN   ) = 0.0818
+  P(NNP   | NNP  ) = 0.3825
+  P(,     | NNP  ) = 0.1532
+  P(VBD   | NNP  ) = 0.0648
+  P(NN    | NNP  ) = 0.0554
+  P(.     | NNP  ) = 0.0505
+  P(NNP   | NNPS ) = 0.3305
+  P(,     | NNPS ) = 0.1381
+  P(.     | NNPS ) = 0.0837
+  P(IN    | NNPS ) = 0.0837
+  P(CC    | NNPS ) = 0.0711
+  P(IN    | NNS  ) = 0.2415
+  P(.     | NNS  ) = 0.1206
+  P(,     | NNS  ) = 0.1191
+  P(VBP   | NNS  ) = 0.0905
+  P(VBD   | NNS  ) = 0.0744
+  P(DT    | PDT  ) = 0.8889
+  P(PRP$  | PDT  ) = 0.1111
+  P(NN    | POS  ) = 0.4126
+  P(JJ    | POS  ) = 0.2027
+  P(NNP   | POS  ) = 0.1274
+  P(NNS   | POS  ) = 0.1274
+  P(CD    | POS  ) = 0.0231
+  P(VBD   | PRP  ) = 0.2576
+  P(VBZ   | PRP  ) = 0.1935
+  P(VBP   | PRP  ) = 0.1766
+  P(MD    | PRP  ) = 0.1235
+  P(RB    | PRP  ) = 0.0495
+  P(NN    | PRP$ ) = 0.4399
+  P(JJ    | PRP$ ) = 0.2232
+  P(NNS   | PRP$ ) = 0.2063
+  P(NNP   | PRP$ ) = 0.0561
+  P(CD    | PRP$ ) = 0.0235
+  P(IN    | RB   ) = 0.1195
+  P(VBN   | RB   ) = 0.1017
+  P(VB    | RB   ) = 0.1007
+  P(JJ    | RB   ) = 0.0957
+  P(,     | RB   ) = 0.0904
+  P(JJ    | RBR  ) = 0.3750
+  P(IN    | RBR  ) = 0.2426
+  P(RB    | RBR  ) = 0.1029
+  P(DT    | RBR  ) = 0.0515
+  P(.     | RBR  ) = 0.0441
+  P(JJ    | RBS  ) = 0.7143
+  P(RB    | RBS  ) = 0.2000
+  P(IN    | RBS  ) = 0.0571
+  P(VBN   | RBS  ) = 0.0286
+  P(IN    | RP   ) = 0.2500
+  P(DT    | RP   ) = 0.1991
+  P(-NONE- | RP   ) = 0.1157
+  P(JJ    | RP   ) = 0.0602
+  P(PRP$  | RP   ) = 0.0602
+  P(NNP   | SYM  ) = 1.0000
+  P(VB    | TO   ) = 0.5787
+  P(DT    | TO   ) = 0.1299
+  P(CD    | TO   ) = 0.0734
+  P(NNP   | TO   ) = 0.0408
+  P($     | TO   ) = 0.0358
+  P(IN    | UH   ) = 0.3333
+  P(.     | UH   ) = 0.3333
+  P(,     | UH   ) = 0.3333
+  P(DT    | VB   ) = 0.2334
+  P(IN    | VB   ) = 0.1022
+  P(VBN   | VB   ) = 0.0924
+  P(JJ    | VB   ) = 0.0854
+  P(-NONE- | VB   ) = 0.0783
+  P(-NONE- | VBD  ) = 0.2731
+  P(DT    | VBD  ) = 0.1278
+  P(IN    | VBD  ) = 0.1075
+  P(VBN   | VBD  ) = 0.0986
+  P(RB    | VBD  ) = 0.0789
+  P(DT    | VBG  ) = 0.1829
+  P(NN    | VBG  ) = 0.1466
+  P(IN    | VBG  ) = 0.1247
+  P(NNS   | VBG  ) = 0.0945
+  P(-NONE- | VBG  ) = 0.0753
+  P(-NONE- | VBN  ) = 0.5562
+  P(IN    | VBN  ) = 0.0783
+  P(NN    | VBN  ) = 0.0675
+  P(DT    | VBN  ) = 0.0530
+  P(JJ    | VBN  ) = 0.0426
+  P(VBN   | VBP  ) = 0.1718
+  P(-NONE- | VBP  ) = 0.1635
+  P(RB    | VBP  ) = 0.1385
+  P(DT    | VBP  ) = 0.1075
+  P(IN    | VBP  ) = 0.0924
+  P(-NONE- | VBZ  ) = 0.1896
+  P(VBN   | VBZ  ) = 0.1558
+  P(DT    | VBZ  ) = 0.1398
+  P(RB    | VBZ  ) = 0.1313
+  P(IN    | VBZ  ) = 0.0847
+  P(-NONE- | WDT  ) = 0.8584
+  P(PRP   | WDT  ) = 0.0382
+  P(DT    | WDT  ) = 0.0225
+  P(NNS   | WDT  ) = 0.0157
+  P(NNP   | WDT  ) = 0.0112
+  P(-NONE- | WP   ) = 0.7801
+  P(PRP   | WP   ) = 0.0539
+  P(DT    | WP   ) = 0.0415
+  P(NNP   | WP   ) = 0.0207
+  P(IN    | WP   ) = 0.0166
+  P(NN    | WP$  ) = 0.5714
+  P(NNS   | WP$  ) = 0.3571
+  P(JJ    | WP$  ) = 0.0714
+  P(DT    | WRB  ) = 0.3146
+  P(PRP   | WRB  ) = 0.1573
+  P(JJ    | WRB  ) = 0.1011
+  P(NNP   | WRB  ) = 0.0730
+  P(NNS   | WRB  ) = 0.0674
+  P(PRP   | ``   ) = 0.1859
+  P(DT    | ``   ) = 0.1775
+  P(JJ    | ``   ) = 0.1113
+  P(NN    | ``   ) = 0.0986
+  P(RB    | ``   ) = 0.0704
+
+HMM TAGGER — TOP EMISSIONS  P(word | tag)
+=======================================================
+  #    : # (1.000)
+  $    : $ (0.992), us$ (0.006), c$ (0.003)
+  ''   : '' (0.986), ' (0.014)
+  ,    : , (1.000), wa (0.000)
+  -LRB-: -lrb- (0.883), -lcb- (0.117)
+  -NONE-: *-1 (0.170), 0 (0.167), * (0.146), *t*-1 (0.122), *u* (0.113)
+  -RRB-: -rrb- (0.889), -rcb- (0.111)
+  .    : . (0.988), ? (0.010), ! (0.002)
+  :    : -- (0.409), ; (0.304), : (0.252), ... (0.028), - (0.007)
+  CC   : and (0.684), but (0.136), or (0.130), & (0.038), nor (0.005)
+  CD   : million (0.108), billion (0.045), one (0.039), two (0.031), three (0.014)
+  DT   : the (0.582), a (0.242), an (0.041), this (0.027), some (0.018)
+  EX   : there (1.000)
+  FW   : besuboru (0.250), de (0.250), perestroika (0.250), etc. (0.250)
+  IN   : of (0.236), in (0.177), for (0.086), that (0.052), on (0.051)
+  JJ   : new (0.029), other (0.024), last (0.017), many (0.017), such (0.016)
+  JJR  : more (0.302), higher (0.131), earlier (0.097), lower (0.079), less (0.076)
+  JJS  : most (0.264), largest (0.154), least (0.132), latest (0.121), best (0.066)
+  LS   : 1 (0.231), 2 (0.231), 3 (0.231), a (0.077), b (0.077)
+  MD   : will (0.302), would (0.225), could (0.131), can (0.101), may (0.076)
+  NN   : % (0.034), company (0.020), year (0.016), market (0.014), trading (0.011)
+  NNP  : mr. (0.040), u.s. (0.023), new (0.017), corp. (0.012), york (0.011)
+  NNPS : securities (0.066), containers (0.066), industries (0.049), materials (0.041), soviets (0.033)
+  NNS  : years (0.019), shares (0.019), prices (0.015), sales (0.013), cents (0.012)
+  PDT  : all (0.556), such (0.259), half (0.148), both (0.037)
+  POS  : 's (0.924), ' (0.076)
+  PRP  : it (0.336), he (0.177), they (0.153), i (0.066), she (0.057)
+  PRP$ : its (0.448), their (0.240), his (0.164), her (0.048), your (0.039)
+  RB   : n't (0.115), also (0.058), not (0.050), only (0.026), even (0.026)
+  RBR  : more (0.647), earlier (0.088), less (0.081), better (0.066), longer (0.029)
+  RBS  : most (1.000)
+  RP   : up (0.356), out (0.218), off (0.125), in (0.069), down (0.065)
+  SYM  : & (1.000)
+  TO   : to (1.000)
+  UH   : ok (0.333), no (0.333), oh (0.333)
+  VB   : be (0.139), have (0.040), make (0.025), buy (0.020), take (0.019)
+  VBD  : said (0.202), was (0.121), were (0.065), had (0.053), did (0.020)
+  VBG  : according (0.029), including (0.026), being (0.023), trying (0.015), growing (0.015)
+  VBN  : been (0.070), expected (0.024), made (0.015), compared (0.015), based (0.015)
+  VBP  : are (0.278), have (0.167), say (0.042), do (0.041), 're (0.022)
+  VBZ  : is (0.316), has (0.159), says (0.102), 's (0.049), does (0.025)
+  WDT  : which (0.503), that (0.488), what (0.007), whichever (0.002)
+  WP   : who (0.693), what (0.282), whom (0.025)
+  WP$  : whose (1.000)
+  WRB  : when (0.551), where (0.202), how (0.157), why (0.079), whereby (0.006)
+  ``   : `` (0.986), ` (0.014)
